@@ -97,3 +97,5 @@ ent-SpawnPointPsychologist = psychologist
     .desc = { ent-SpawnPointJobBase.desc }
 ent-SpawnPointZookeeper = zookeeper
     .desc = { ent-SpawnPointJobBase.desc }
+ent-SpawnPointWitchService = service witch
+    .desc = { ent-SpawnPointJobBase.desc }

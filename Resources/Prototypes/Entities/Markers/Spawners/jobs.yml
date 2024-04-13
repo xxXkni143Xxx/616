@@ -282,6 +282,18 @@
       - state: boxer
 
 - type: entity
+  id: SpawnPointWitchService
+  parent: SpawnPointJobBase
+  name: service witch
+  components:
+  - type: SpawnPoint
+    job_id: WitchService
+  - type: Sprite
+    layers:
+      - state: green
+      - state: witchservice
+
+- type: entity
   id: SpawnPointBorg
   parent: SpawnPointJobBase
   name: cyborg

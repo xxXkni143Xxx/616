@@ -123,3 +123,5 @@ ent-SeniorPhysicianIDCard = ID карта ведущего врача
     .desc = { ent-IDCardStandard.desc }
 ent-SeniorOfficerIDCard = ID карта инструктора СБ
     .desc = { ent-IDCardStandard.desc }
+ent-WitchServiceIDCard = ID карта сервисной ведьмы
+    .desc = { ent-PassengerIDCard.desc }

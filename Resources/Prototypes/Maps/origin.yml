@@ -28,6 +28,7 @@
             Janitor: [ 3, 3 ]
             Chaplain: [ 2, 2 ]
             Librarian: [ 2, 2 ]
+            WitchService: [ 1, 1 ]
             #Lawyer: [ 2, 2 ] # Corvax-IAA
             ServiceWorker: [ 3, 4 ]
             #engineering

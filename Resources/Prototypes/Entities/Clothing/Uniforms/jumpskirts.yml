@@ -77,6 +77,17 @@
 
 - type: entity
   parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtDresswitchservice
+  name: service witch uniform
+  description: A charming and functional dress for a witch, the best style of the twenty-second century. Twelve out of thirteen witches choose!
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/Jumpskirt/dresswitchservice.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/Jumpskirt/dresswitchservice.rsi
+
+- type: entity
+  parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtChemistry
   name: chemistry jumpskirt
   description: There's some odd stains on this jumpskirt. Hm.

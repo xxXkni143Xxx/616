@@ -129,3 +129,5 @@ ent-PiratePDA = pirate PDA
     .desc = Yargh!
 ent-SyndiAgentPDA = syndicate agent PDA
     .desc = For those days when healing normal syndicates aren't enough, try healing nuclear operatives instead!
+ent-WitchServicePDA = witch service PDA
+    .desc = It smells of spicy wild herbs and magic from other dimensions.

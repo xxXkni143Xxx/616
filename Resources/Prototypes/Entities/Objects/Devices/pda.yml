@@ -221,6 +221,21 @@
 
 - type: entity
   parent: BasePDA
+  id: WitchServicePDA
+  name: witch service PDA
+  description: It smells of spicy wild herbs and magic from other dimensions.
+  components:
+  - type: Pda
+    id: WitchServiceIDCard
+    state: pda-witchservice
+  - type: PdaBorderColor
+    borderColor: "#666666"
+    accentHColor: "#121212"
+  - type: Icon
+    state: pda-witchservice
+
+- type: entity
+  parent: BasePDA
   id: BotanistPDA
   name: botanist PDA
   description: Has an earthy scent.

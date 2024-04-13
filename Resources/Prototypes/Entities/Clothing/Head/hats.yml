@@ -350,6 +350,17 @@
 
 - type: entity
   parent: ClothingHeadBase
+  id: ClothingHeadHatWitchhatservice
+  name: service witch hat
+  description: Stylish witch hat only for witches. Made from the finest enchanted fabric in known space. The trademark belongs to the Coven of Starlight. All rights reserved.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/witchhatservice.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/witchhatservice.rsi
+
+- type: entity
+  parent: ClothingHeadBase
   id: ClothingHeadHatPaper
   name: paper hat
   description: A hat made of paper.

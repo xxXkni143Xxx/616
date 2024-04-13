@@ -150,3 +150,5 @@ ent-ClothingUniformJumpskirtCasualPurple = casual purple jumpskirt
     .desc = A loose worn purple shirt with a grey skirt, perfect for someone looking to relax.
 ent-ClothingUniformJumpskirtCasualRed = casual red jumpskirt
     .desc = A loose worn red shirt with a grey skirt, perfect for someone looking to relax.
+ent-ClothingUniformJumpskirtDresswitchservice = service witch uniform
+    .desc = A charming and functional dress for a witch, the best style of the twenty-second century. Twelve out of thirteen witches choose! The trademark belongs to the Coven of Starlight. All rights reserved.

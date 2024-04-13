@@ -41,6 +41,18 @@
 
 - type: entity
   parent: PassengerIDCard
+  id: WitchServiceIDCard
+  name: service witch ID card
+  components:
+  - type: PresetIdCard
+    job: WitchService
+  - type: Sprite
+    layers:
+    - state: syndie
+    - state: idwitch-service
+
+- type: entity
+  parent: PassengerIDCard
   id: TechnicalAssistantIDCard
   name: technical assistant ID card
   components:
@@ -647,6 +659,7 @@
     - JobIconSecurityCadet
     - JobIconZookeeper
     - JobIconVisitor
+    - JobIconServiceWitch
   - type: ActivatableUI
     key: enum.AgentIDCardUiKey.Key
     inHandsOnly: true

@@ -158,3 +158,5 @@ ent-ClothingHeadHatStrawHat = straw hat
     .desc = A fancy hat for hot days! Not recommended to wear near fires.
 ent-ClothingHeadHatBeretMedic = medical beret
     .desc = White beret that encourages you to be clean.
+ent-ClothingHeadHatWitchhatservice = service witch hat
+    .desc = Stylish witch hat only for witches. Made from the finest enchanted fabric in known space. The trademark belongs to the Coven of Starlight. All rights reserved.

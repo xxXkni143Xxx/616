@@ -33,4 +33,5 @@
             AtmosphericTechnician: [ 1, 1 ]
             StationEngineer: [ 1, 2 ]
             Passenger: [ -1, -1 ]
+            WitchService: [ 1, 1 ]
 

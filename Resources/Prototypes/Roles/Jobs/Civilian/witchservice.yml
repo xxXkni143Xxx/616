@@ -1,0 +1,35 @@
+- type: job
+  id: WitchService
+  name: job-name-witchservice
+  description: job-description-witchseervice
+  playTimeTracker: JobWitchService
+  requirements:
+    - !type:DepartmentTimeRequirement
+      department: Civilian
+      time: 3600 #1 hrs # Corvax-RoleTime
+  startingGear: WitchService
+  icon: "JobIconServiceWitch"
+  supervisors: job-supervisors-hop
+  access:
+  - Service
+  - Maintenance
+  - Kitchen
+  - Hydroponics
+  - Bar
+  - Janitor
+  - Theatre
+  - Chapel
+  - External
+
+- type: startingGear
+  id: WitchService
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtDresswitchservice
+    head: ClothingHeadHatWitchhatservice
+    back: ClothingBackpackFilled
+    Under: ClothingUnderSocksWitchsocks
+    id: WitchServicePDA
+    ears: ClothingHeadsetService
+  innerClothingSkirt: ClothingUniformJumpskirtDresswitchservice
+  satchel: ClothingBackpackSatchelFilled
+  duffelbag: ClothingBackpackDuffelFilled

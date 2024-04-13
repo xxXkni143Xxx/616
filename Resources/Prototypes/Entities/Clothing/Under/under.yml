@@ -22,3 +22,14 @@
     sprite: Clothing/Under/Socks/coder.rsi
   - type: Clothing
     sprite: Clothing/Under/Socks/coder.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingUnderSocksWitchsocks
+  name: service witch socks
+  description: Cutting-edge equipment in incredibly attractive colors. Charm everyone! Stockings tightly attached to the boots using magic are a design feature of the model. The trademark belongs to the Coven of Starlight. All rights reserved.
+  components:
+  - type: Sprite
+    sprite: Clothing/Under/Socks/witchsocks.rsi
+  - type: Clothing
+    sprite: Clothing/Under/Socks/witchsocks.rsi
