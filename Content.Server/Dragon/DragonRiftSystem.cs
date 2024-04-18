@@ -82,14 +82,6 @@ public sealed class DragonRiftSystem : EntitySystem
                 comp.SpawnAccumulator -= comp.SpawnCooldown;
                 var ent = Spawn(comp.SpawnPrototype, xform.Coordinates);
 
-                // Update their look to match the leader.
-                if (TryComp<RandomSpriteComponent>(comp.Dragon, out var randomSprite))
-                {
-                    var spawnedSprite = EnsureComp<RandomSpriteComponent>(ent);
-                    _serManager.CopyTo(randomSprite, ref spawnedSprite, notNullableOverride: true);
-                    Dirty(ent, spawnedSprite);
-                }
-
                 if (comp.Dragon != null)
                     _npc.SetBlackboard(ent, NPCBlackboard.FollowTarget, new EntityCoordinates(comp.Dragon.Value, Vector2.Zero));
             }

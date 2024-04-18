@@ -2,8 +2,8 @@
   parent: [ SimpleSpaceMobBase, FlyingMobBase ]
   id: BaseMobDragon
   suffix: ""
-  name: space dragon
-  description: A flying leviathan, loosely related to space carps.
+  name: Jasta
+  description: A huge, terrifying monster out of this world that will tear your body and soul apart! An otherworldly light is visible through the cracks in the stone shell.
   abstract: true
   components:
   - type: Bloodstream
@@ -37,10 +37,6 @@
     baseWalkSpeed: 3
     baseSprintSpeed: 5
     weightlessModifier: 1.5
-  - type: RandomSprite
-    available:
-    - enum.DamageStateVisualLayers.Base:
-        alive: Rainbow
   - type: Sprite
     sprite: Mobs/Aliens/Carps/dragon.rsi
     noRot: true

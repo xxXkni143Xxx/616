@@ -1,11 +1,11 @@
-ent-BaseMobDragon = космический дракон
-    .desc = Летающий левиафан, имеющий мало общего с космическими карпами.
+ent-BaseMobDragon = Яста
+    .desc = Огромное ужасающее чудовище не из этого мира, которое разорвёт ваши тело и душу на части! Сквозь трещины в каменной оболочке виден потусторонний свет.
 ent-MobDragon = { ent-BaseMobDragon }
     .desc = { ent-BaseMobDragon.desc }
 ent-MobDragonDungeon = { ent-BaseMobDragon }
     .suffix = Подземелье
     .desc = { ent-BaseMobDragon.desc }
-ent-ActionSpawnRift = Создать карповый разлом
-    .desc = Создать карповый разлом, который будет периодически призывать карпов.
+ent-ActionSpawnRift = Создать разлом красного пространства
+    .desc = Создать разлом, который будет периодически призывать авагаров.
 ent-ActionDevour = [color=red]Поглотить[/color]
     .desc = Попытаться разрушить конструкцию своими челюстями или проглотить существо.

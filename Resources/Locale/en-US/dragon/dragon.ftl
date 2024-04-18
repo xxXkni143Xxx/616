@@ -1,5 +1,5 @@
 dragon-round-end-agent-name = dragon
 
-objective-issuer-dragon = [color=#7567b6]Space Dragon[/color]
+objective-issuer-dragon = [color=#7567b6]Jasta[/color]
 
-dragon-role-briefing = Summon 3 carp rifts and take over this quadrant!
+dragon-role-briefing = Summon 3 redspace rifts and take over this quadrant!

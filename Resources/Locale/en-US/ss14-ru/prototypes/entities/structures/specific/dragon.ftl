@@ -1,2 +1,2 @@
-ent-CarpRift = carp rift
-    .desc = A rift akin to the ones space carp use to travel long distances.
+ent-CarpRift = redspace rift
+    .desc = Through this crack in the fabric of reality, an incomprehensible and hateful scarlet infinity is visible. Redspace.

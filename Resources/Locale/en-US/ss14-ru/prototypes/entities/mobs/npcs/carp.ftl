@@ -1,5 +1,5 @@
-ent-BaseMobCarp = space carp
-    .desc = It's a space carp.
+ent-BaseMobCarp = avagar
+    .desc = A toothy creature from the unknown crimson depths, who desires only your death!
 ent-MobCarp = { ent-BaseMobCarp }
     .desc = { ent-BaseMobCarp.desc }
 ent-MobCarpMagic = magicarp
@@ -11,7 +11,7 @@ ent-MobCarpRainbow = rainbow carp
 ent-MobCarpSalvage = { ent-MobCarp }
     .suffix = Salvage Ruleset
     .desc = { ent-MobCarp.desc }
-ent-MobCarpDragon = space carp
+ent-MobCarpDragon = avagar
     .suffix = DragonBrood
     .desc = { ent-MobCarp.desc }
 ent-MobCarpDungeon = { ent-MobCarp }

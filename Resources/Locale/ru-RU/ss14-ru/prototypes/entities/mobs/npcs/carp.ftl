@@ -1,5 +1,5 @@
-ent-BaseMobCarp = космический карп
-    .desc = Это космический карп.
+ent-BaseMobCarp = авагар
+    .desc = Зубастая тварь из неведомых багряных глубин, которая жаждет только вашей смерти!
 ent-MobCarp = { ent-BaseMobCarp }
     .desc = { ent-BaseMobCarp.desc }
 ent-MobCarpMagic = мэджикарп
@@ -11,7 +11,7 @@ ent-MobCarpRainbow = радужный карп
 ent-MobCarpSalvage = { ent-MobCarp }
     .suffix = Подземелье
     .desc = { ent-MobCarp.desc }
-ent-MobCarpDragon = космический карп
+ent-MobCarpDragon = авагар
     .suffix = ВыводокДракона
     .desc = { ent-MobCarp.desc }
 ent-MobCarpDungeon = { ent-MobCarp }

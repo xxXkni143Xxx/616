@@ -61,8 +61,8 @@ ghost-role-information-rat-servant-rules = You are an antagonist, scavenge, atta
 ghost-role-information-salvage-carp-name = Space carp on salvage wreck
 ghost-role-information-salvage-carp-description = Defend the loot inside the salvage wreck!
 
-ghost-role-information-sentient-carp-name = Sentient Carp
-ghost-role-information-sentient-carp-description = Help the dragon flood the station with carps!
+ghost-role-information-sentient-carp-name = Avagar
+ghost-role-information-sentient-carp-description = You are cloned cannon fodder from another reality, designed to help Jasta and drown the humans in blood. Listen to Jasta and kill as many as you can! Please note that your intelligence is replaced by animal instincts.
 
 ghost-role-information-salvage-shark-name = Space sharkminnow on salvage wreck
 ghost-role-information-salvage-shark-description = Help the younger fellow carp protect their prey. Smell the blood!
@@ -133,10 +133,9 @@ ghost-role-information-holoclown-description = Listen to your owner. Utilize you
 ghost-role-information-ifrit-name = Ifrit
 ghost-role-information-ifrit-description = Listen to your owner. Don't tank damage. Punch people hard.
 
-ghost-role-information-space-dragon-name = Space dragon
-ghost-role-information-space-dragon-description = Call in 3 carp rifts and take over this quadrant! You have only 5 minutes in between each rift before you will disappear.
-ghost-role-information-space-dragon-dungeon-description = Defend the expedition dungeon with your fishy comrades!
-
+ghost-role-information-space-dragon-name = Jasta
+ghost-role-information-space-dragon-description = You are the vanguard of Nisht'ya. You are a golem, created from ancient stone and mystical energy with one purpose: to find and destroy. Don't disappoint the creator, find the people, tear apart their reality and drown them in their own blood before the creator gives up on you.
+ghost-role-information-space-dragon-dungeon-description = You are the vanguard of Nisht'ya. You are a golem, created from ancient stone and mystical energy with one purpose: to find and destroy. Don't let the pathetic people into the dungeon so as not to disappoint the creator!
 ghost-role-information-cluwne-name = Cluwne
 ghost-role-information-cluwne-description = Become a pitiful cluwne, your only goal in life is to find a sweet release from your suffering (usually by being beaten to death). A cluwne is not an antagonist but may defend itself. Crewmembers may murder cluwnes freely.
 

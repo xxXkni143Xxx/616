@@ -1,8 +1,8 @@
 - type: entity
-  name: space carp
+  name: avagar
   id: BaseMobCarp
   parent: [ SimpleSpaceMobBase, FlyingMobBase, MobCombat ]
-  description: It's a space carp.
+  description: A toothy creature from the unknown crimson depths, who desires only your death!
   abstract: true
   components:
     - type: InputMover
@@ -91,12 +91,6 @@
     - map: [ "enum.DamageStateVisualLayers.BaseUnshaded" ]
       state: mouth
       shader: unshaded
-  - type: RandomSprite
-    available:
-    - enum.DamageStateVisualLayers.Base:
-        alive: Rainbow
-      enum.DamageStateVisualLayers.BaseUnshaded:
-        mouth: ""
 
 - type: entity
   name: magicarp
