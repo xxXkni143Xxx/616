@@ -122,5 +122,5 @@ ent-ClothingUniformJumpskirtCasualRed = повседневная красная 
     .desc = Свободная потёртая красная рубашка с серой юбкой - идеальный вариант для тех, кто хочет расслабиться.
 ent-ClothingUniformJumpskirtDresswitchservice = платье сервисной ведьмы
     .desc = Очаровательное и функциональное платье для колдуньи, лучший фасон двадцать второго столетия. Двенадцать из тринадцати ведьм выбирают! Товарный знак принадлежит Ковену Звёздного Сияния. Все права защищены.
-ent-ClothingUniformJumpskirtOldDress = old dress
-    .desc = A worn-looking dress from a very long time ago.
+ent-ClothingUniformJumpskirtOldDress = старое платье
+    .desc = Очень старое поношенное платье.
