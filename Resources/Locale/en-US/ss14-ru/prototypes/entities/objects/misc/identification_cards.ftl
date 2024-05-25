@@ -125,3 +125,6 @@ ent-SeniorOfficerIDCard = senior officer ID card
     .desc = { ent-SecurityIDCard.desc }
 ent-WitchServiceIDCard = service witch ID card
     .desc = { ent-PassengerIDCard.desc }
+ent-UniversalIDCard = universal ID card
+    .desc = An ID card that gives you access beyond your wildest dreams.
+    .suffix = Admin

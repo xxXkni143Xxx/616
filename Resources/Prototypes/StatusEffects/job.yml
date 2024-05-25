@@ -382,3 +382,8 @@
   icon:
     sprite: /Textures/Interface/Misc/job_icons.rsi
     state: ServiceWitch
+
+  id: JobIconAdmin
+  icon:
+    sprite: /Textures/Interface/Misc/job_icons.rsi
+    state: Admin
